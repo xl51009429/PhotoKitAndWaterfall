@@ -1,0 +1,17 @@
+//
+//  PhotoKitDemo.pch
+//  PhotoKitDemo
+//
+//  Created by 解梁 on 16/7/14.
+//  Copyright © 2016年 5i5j. All rights reserved.
+//
+
+#ifndef PhotoKitDemo_pch
+#define PhotoKitDemo_pch
+
+#define kWidth [UIScreen mainScreen].bounds.size.width
+#define kHeight [UIScreen mainScreen].bounds.size.height
+#define kColumnNum 4       //显示的列数
+#define kColumnPadding 10  //列间距
+
+#endif /* PhotoKitDemo_pch */
